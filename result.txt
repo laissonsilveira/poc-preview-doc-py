@@ -1,0 +1,182 @@
+File 'file-sample_1MB.doc' - size: 1027072 bytes
+b4f1a45f41bada469f3293bfa99a24f8-256x256.jpeg: 3.3251421451568604 seconds
+b4f1a45f41bada469f3293bfa99a24f8-140x256.jpeg: 0.3326294422149658 seconds
+One page - b4f1a45f41bada469f3293bfa99a24f8-140x256-page0.jpeg: 0.3327515125274658 seconds
+--------------------
+File 'file-sample_500kB.doc' - size: 503296 bytes
+72540569a4c111e376736edbf00bfaea-256x256.jpeg: 2.435711622238159 seconds
+72540569a4c111e376736edbf00bfaea-140x256.jpeg: 0.33725714683532715 seconds
+One page - 72540569a4c111e376736edbf00bfaea-140x256-page0.jpeg: 0.33154964447021484 seconds
+--------------------
+File 'Sample-Spreadsheet-1000-rows.csv' - size: 121306 bytes
+2acf1b35bbb1fb1f0b6dd1c092561fde-256x256.jpeg: 1.6748719215393066 seconds
+2acf1b35bbb1fb1f0b6dd1c092561fde-140x256.jpeg: 0.23711752891540527 seconds
+One page - 2acf1b35bbb1fb1f0b6dd1c092561fde-140x256-page0.jpeg: 0.2276291847229004 seconds
+--------------------
+File 'file_example_XLS_1000.xls' - size: 140288 bytes
+ad791daad97c81631788642128872cdc-256x256.jpeg: 1.4970993995666504 seconds
+ad791daad97c81631788642128872cdc-140x256.jpeg: 0.2337493896484375 seconds
+One page - ad791daad97c81631788642128872cdc-140x256-page0.jpeg: 0.23096394538879395 seconds
+--------------------
+File 'file-sample_1MB.odt' - size: 1031805 bytes
+3c8e343d811533ae6f9fad9ba89ecd42-256x256.jpeg: 3.6932315826416016 seconds
+3c8e343d811533ae6f9fad9ba89ecd42-140x256.jpeg: 0.3651144504547119 seconds
+One page - 3c8e343d811533ae6f9fad9ba89ecd42-140x256-page0.jpeg: 0.3405740261077881 seconds
+--------------------
+File 'file_example_ODP_1MB.odp' - size: 971659 bytes
+51133d210fe9ba4856f12078f628c3d5-256x256.jpeg: 4.871088743209839 seconds
+51133d210fe9ba4856f12078f628c3d5-140x256.jpeg: 0.7536444664001465 seconds
+One page - 51133d210fe9ba4856f12078f628c3d5-140x256-page0.jpeg: 0.7545826435089111 seconds
+--------------------
+File 'file_example_PPT_500kB.ppt' - size: 526848 bytes
+9376dae6848ad7a35761de03d8a1051c-256x256.jpeg: 3.267455816268921 seconds
+9376dae6848ad7a35761de03d8a1051c-140x256.jpeg: 0.7607548236846924 seconds
+One page - 9376dae6848ad7a35761de03d8a1051c-140x256-page0.jpeg: 0.8081731796264648 seconds
+--------------------
+File 'file-sample_150kB.pdf' - size: 142786 bytes
+4a96cb1236bb6fc2b381f00475a7bc6c-256x256.jpeg: 0.34404492378234863 seconds
+4a96cb1236bb6fc2b381f00475a7bc6c-140x256.jpeg: 0.3792304992675781 seconds
+One page - 4a96cb1236bb6fc2b381f00475a7bc6c-140x256-page0.jpeg: 0.3415803909301758 seconds
+--------------------
+File 'file_example_ODS_100.ods' - size: 68446 bytes
+92803cce45aa349b52b42d3ad812c495-256x256.jpeg: 1.3325529098510742 seconds
+92803cce45aa349b52b42d3ad812c495-140x256.jpeg: 0.24103045463562012 seconds
+One page - 92803cce45aa349b52b42d3ad812c495-140x256-page0.jpeg: 0.22309660911560059 seconds
+--------------------
+File 'file-sample_100kB.doc' - size: 100352 bytes
+5375a112a9452b8e4bc0a62256fba5fa-256x256.jpeg: 1.3461978435516357 seconds
+5375a112a9452b8e4bc0a62256fba5fa-140x256.jpeg: 0.346376895904541 seconds
+One page - 5375a112a9452b8e4bc0a62256fba5fa-140x256-page0.jpeg: 0.3425624370574951 seconds
+--------------------
+File 'file_example_ODS_5000.ods' - size: 236789 bytes
+bd6b4c9ac01e6d778551e046fc1846fc-256x256.jpeg: 13.180986166000366 seconds
+bd6b4c9ac01e6d778551e046fc1846fc-140x256.jpeg: 0.3391735553741455 seconds
+One page - bd6b4c9ac01e6d778551e046fc1846fc-140x256-page0.jpeg: 0.347653865814209 seconds
+--------------------
+File 'file-example_PDF_1MB.pdf' - size: 1042157 bytes
+a466286fbb4e796da6d4b28e2dabff18-256x256.jpeg: 0.3877835273742676 seconds
+a466286fbb4e796da6d4b28e2dabff18-140x256.jpeg: 0.35657215118408203 seconds
+One page - a466286fbb4e796da6d4b28e2dabff18-140x256-page0.jpeg: 0.38759469985961914 seconds
+--------------------
+File 'file-example_PDF_500_kB.pdf' - size: 469513 bytes
+9d1763ae604502b08e7142314a0d329f-256x256.jpeg: 0.35431671142578125 seconds
+9d1763ae604502b08e7142314a0d329f-140x256.jpeg: 0.3798990249633789 seconds
+One page - 9d1763ae604502b08e7142314a0d329f-140x256-page0.jpeg: 0.33937740325927734 seconds
+--------------------
+File 'file_example_XLSX_10.xlsx' - size: 5425 bytes
+bb5ffeabb0f8dda1031cfe5f5abbf7b9-256x256.jpeg: 0.9532260894775391 seconds
+bb5ffeabb0f8dda1031cfe5f5abbf7b9-140x256.jpeg: 0.22027921676635742 seconds
+One page - bb5ffeabb0f8dda1031cfe5f5abbf7b9-140x256-page0.jpeg: 0.24028396606445312 seconds
+--------------------
+File 'file_example_ODP_500kB.odp' - size: 476589 bytes
+0683f88133c931a028815c40c5e00635-256x256.jpeg: 3.2353079319000244 seconds
+0683f88133c931a028815c40c5e00635-140x256.jpeg: 0.8490707874298096 seconds
+One page - 0683f88133c931a028815c40c5e00635-140x256-page0.jpeg: 0.8442173004150391 seconds
+--------------------
+File 'file-sample_500kB.docx' - size: 551820 bytes
+bd9b0c2aa3c37d9628b3ba7e67c928cf-256x256.jpeg: 3.179365634918213 seconds
+bd9b0c2aa3c37d9628b3ba7e67c928cf-140x256.jpeg: 0.4376192092895508 seconds
+One page - bd9b0c2aa3c37d9628b3ba7e67c928cf-140x256-page0.jpeg: 0.446197509765625 seconds
+--------------------
+File 'Sample-Spreadsheet-10-rows.csv' - size: 1098 bytes
+3815b46e0b83abfdc1669f2b380103a9-256x256.jpeg: 0.785879373550415 seconds
+3815b46e0b83abfdc1669f2b380103a9-140x256.jpeg: 0.19291996955871582 seconds
+One page - 3815b46e0b83abfdc1669f2b380103a9-140x256-page0.jpeg: 0.2142777442932129 seconds
+--------------------
+File 'file_example_XLSX_100.xlsx' - size: 9299 bytes
+ce2d03a8253ab67dbbe5a507eb5da80a-256x256.jpeg: 1.1427786350250244 seconds
+ce2d03a8253ab67dbbe5a507eb5da80a-140x256.jpeg: 0.2673053741455078 seconds
+One page - ce2d03a8253ab67dbbe5a507eb5da80a-140x256-page0.jpeg: 0.25626444816589355 seconds
+--------------------
+File 'file_example_XLS_5000.xls' - size: 672256 bytes
+70e73ee75c493363751bc99411384245-256x256.jpeg: 5.948765993118286 seconds
+70e73ee75c493363751bc99411384245-140x256.jpeg: 0.30261993408203125 seconds
+One page - 70e73ee75c493363751bc99411384245-140x256-page0.jpeg: 0.3000359535217285 seconds
+--------------------
+File 'file_example_PPT_1MB.ppt' - size: 1028608 bytes
+7fd9e3eb2d34269e5db4b5014a9a773c-256x256.jpeg: 5.120436429977417 seconds
+7fd9e3eb2d34269e5db4b5014a9a773c-140x256.jpeg: 0.8352186679840088 seconds
+One page - 7fd9e3eb2d34269e5db4b5014a9a773c-140x256-page0.jpeg: 0.804314136505127 seconds
+--------------------
+File 'file_example_XLSX_1000.xlsx' - size: 42669 bytes
+ffe66f212d9a0613f2ae52e8c8a8848f-256x256.jpeg: 3.1313424110412598 seconds
+ffe66f212d9a0613f2ae52e8c8a8848f-140x256.jpeg: 0.2410869598388672 seconds
+One page - ffe66f212d9a0613f2ae52e8c8a8848f-140x256-page0.jpeg: 0.34323978424072266 seconds
+--------------------
+File 'file_example_XLSX_5000.xlsx' - size: 188887 bytes
+aeeba617c2d6f26cd76f120019362a43-256x256.jpeg: 14.293358564376831 seconds
+aeeba617c2d6f26cd76f120019362a43-140x256.jpeg: 0.3946828842163086 seconds
+One page - aeeba617c2d6f26cd76f120019362a43-140x256-page0.jpeg: 0.3569324016571045 seconds
+--------------------
+File 'file_example_XLS_100.xls' - size: 20480 bytes
+f7aec599e11459ddef12d7ef02f4412d-256x256.jpeg: 1.077402114868164 seconds
+f7aec599e11459ddef12d7ef02f4412d-140x256.jpeg: 0.28286218643188477 seconds
+One page - f7aec599e11459ddef12d7ef02f4412d-140x256-page0.jpeg: 0.25075578689575195 seconds
+--------------------
+File 'file_example_XLS_50.xls' - size: 13824 bytes
+bf2cda3f35a1f28fb0f78cc9efeb469c-256x256.jpeg: 1.009486436843872 seconds
+bf2cda3f35a1f28fb0f78cc9efeb469c-140x256.jpeg: 0.32915759086608887 seconds
+One page - bf2cda3f35a1f28fb0f78cc9efeb469c-140x256-page0.jpeg: 0.27634239196777344 seconds
+--------------------
+File 'file_example_PPT_250kB.ppt' - size: 248320 bytes
+09ce6d312072effdd45a09b45583ac9a-256x256.jpeg: 2.7018961906433105 seconds
+09ce6d312072effdd45a09b45583ac9a-140x256.jpeg: 1.0172779560089111 seconds
+One page - 09ce6d312072effdd45a09b45583ac9a-140x256-page0.jpeg: 0.914238452911377 seconds
+--------------------
+File 'Sample-Spreadsheet-5000-rows.csv' - size: 568959 bytes
+e14e1e9627f77b8cb6c5c6be13457272-256x256.jpeg: 16.970804691314697 seconds
+e14e1e9627f77b8cb6c5c6be13457272-140x256.jpeg: 0.6973600387573242 seconds
+One page - e14e1e9627f77b8cb6c5c6be13457272-140x256-page0.jpeg: 0.8173127174377441 seconds
+--------------------
+File 'Sample-Spreadsheet-100-rows.csv' - size: 10998 bytes
+c2f6b94d1dc82ee4019824a2598b0393-256x256.jpeg: 1.8404314517974854 seconds
+c2f6b94d1dc82ee4019824a2598b0393-140x256.jpeg: 0.4638097286224365 seconds
+One page - c2f6b94d1dc82ee4019824a2598b0393-140x256-page0.jpeg: 0.3579428195953369 seconds
+--------------------
+File 'file-sample_100kB.docx' - size: 111303 bytes
+29ed87dd4e3f54e29b69502bb1096c1f-256x256.jpeg: 4.409810304641724 seconds
+29ed87dd4e3f54e29b69502bb1096c1f-140x256.jpeg: 0.7760758399963379 seconds
+One page - 29ed87dd4e3f54e29b69502bb1096c1f-140x256-page0.jpeg: 0.7731499671936035 seconds
+--------------------
+File 'file_example_ODS_1000.ods' - size: 95901 bytes
+f133de478b7cbb2511e289e439a7fbf9-256x256.jpeg: 5.646612167358398 seconds
+f133de478b7cbb2511e289e439a7fbf9-140x256.jpeg: 0.36464357376098633 seconds
+One page - f133de478b7cbb2511e289e439a7fbf9-140x256-page0.jpeg: 0.3604557514190674 seconds
+--------------------
+File 'file_example_ODS_10.ods' - size: 31276 bytes
+bf737850c6e3595fda471f279cea782c-256x256.jpeg: 1.3046491146087646 seconds
+bf737850c6e3595fda471f279cea782c-140x256.jpeg: 0.2987062931060791 seconds
+One page - bf737850c6e3595fda471f279cea782c-140x256-page0.jpeg: 0.291471004486084 seconds
+--------------------
+File 'file-sample_500kB.odt' - size: 609710 bytes
+c7bd4d406fee8be17d0a7299817c55ac-256x256.jpeg: 4.068307876586914 seconds
+c7bd4d406fee8be17d0a7299817c55ac-140x256.jpeg: 0.5824625492095947 seconds
+One page - c7bd4d406fee8be17d0a7299817c55ac-140x256-page0.jpeg: 0.5480177402496338 seconds
+--------------------
+File 'file-sample_100kB.odt' - size: 116076 bytes
+0d77e7d25830f7efae7882c73868dd15-256x256.jpeg: 1.419874668121338 seconds
+0d77e7d25830f7efae7882c73868dd15-140x256.jpeg: 0.4107072353363037 seconds
+One page - 0d77e7d25830f7efae7882c73868dd15-140x256-page0.jpeg: 0.4104759693145752 seconds
+--------------------
+File 'file_example_ODP_200kB.odp' - size: 200092 bytes
+52d4b0105e45061bafd2ced5dfe28a70-256x256.jpeg: 3.6116905212402344 seconds
+52d4b0105e45061bafd2ced5dfe28a70-140x256.jpeg: 0.927337646484375 seconds
+One page - 52d4b0105e45061bafd2ced5dfe28a70-140x256-page0.jpeg: 0.8287038803100586 seconds
+--------------------
+File 'file_example_XLSX_50.xlsx' - size: 7360 bytes
+dcb185ee2191d1018cb6f1b5e5230db8-256x256.jpeg: 1.0655267238616943 seconds
+dcb185ee2191d1018cb6f1b5e5230db8-140x256.jpeg: 0.2508218288421631 seconds
+One page - dcb185ee2191d1018cb6f1b5e5230db8-140x256-page0.jpeg: 0.25957298278808594 seconds
+--------------------
+File 'file-sample_1MB.docx' - size: 1026736 bytes
+80901a6ccea1381c39183ee0ed41bbd6-256x256.jpeg: 4.100434064865112 seconds
+80901a6ccea1381c39183ee0ed41bbd6-140x256.jpeg: 0.45686793327331543 seconds
+One page - 80901a6ccea1381c39183ee0ed41bbd6-140x256-page0.jpeg: 0.5013442039489746 seconds
+--------------------
+File 'file_example_XLS_10.xls' - size: 8704 bytes
+b7f1fb871c57b2752f2185951a76adab-256x256.jpeg: 0.9418954849243164 seconds
+b7f1fb871c57b2752f2185951a76adab-140x256.jpeg: 0.21304988861083984 seconds
+One page - b7f1fb871c57b2752f2185951a76adab-140x256-page0.jpeg: 0.2447190284729004 seconds
+--------------------
+Total size: 12428707 bytes
+Total time: 158.2178590297699 seconds

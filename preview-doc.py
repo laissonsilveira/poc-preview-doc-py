@@ -3,7 +3,7 @@ import sys
 from preview_generator.manager import PreviewManager
 
 file_in = sys.argv[1]
-file_out = sys.argv[3]
+file_out = sys.argv[2]
 
 manager = PreviewManager(file_out, create_folder= True)
 path_to_preview_image = manager.get_jpeg_preview(file_in, width=140)
